@@ -60,7 +60,7 @@ You’ll work with a **movie analytics database** that includes tables for movie
 
 ## Analysis
 
-The documentation of the data analysis process is included in the file 
+The documentation of the data analysis process is included in the file (movie_cte_db)[https://github.com/data-engineer-yogesh/movie_cte/blob/main/movie_cte_db.sql]
 
 ## Summary
 
