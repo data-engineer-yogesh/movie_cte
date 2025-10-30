@@ -4,7 +4,7 @@
 This project is designed to help you **master Common Table Expressions (CTEs)** in SQL using a practical, real-world dataset.  
 You’ll work with a **movie analytics database** that includes tables for movies, genres, actors, users, ratings, and movie casts.
 
-The goal is to practice **15 SQL CTE queries** — from basic filtering and aggregation to multi-step and recursive CTEs — to strengthen your analytical and problem-solving skills.
+
 
 ---
 
