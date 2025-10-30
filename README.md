@@ -41,17 +41,7 @@ The goal is to practice **15 SQL CTE queries** — from basic filtering and aggr
 | **Q2**  | Use a CTE to calculate average rating per movie.               | Aggregate CTE        |
 | **Q3**  | Find the top 3 highest-rated movies using a CTE.               | Ranking              |
 | **Q4**  | List movies whose average rating is above the overall average. | Nested CTE           |
-| **Q5**  | Display each movie with its genre using a CTE join.            | Join in CTE          |
-| **Q6**  | Find actors who acted in at least 2 movies.                    | GROUP BY in CTE      |
-| **Q7**  | Get the count of movies per genre.                             | Aggregation in CTE   |
-| **Q8**  | List all movies rated by user 'Alice'.                         | Filter + Join        |
-| **Q9**  | Show all movies that have never been rated.                    | LEFT JOIN + NULL     |
-| **Q10** | Find the top genre by average rating.                          | Multi-level CTE      |
-| **Q11** | Find top 3 actors by average rating of their movies.           | Multi-join CTE       |
-| **Q12** | List the most recent movie released in each genre.             | Window + CTE         |
-| **Q13** | (Recursive) Generate a sequence of years from 2000 to 2025.    | Recursive CTE        |
-| **Q14** | Build a multi-step CTE: ratings → averages → top 5 movies.     | Chained CTEs         |
-| **Q15** | Rewrite a nested subquery (movie avg > 8.5) using a clean CTE. | Subquery replacement |
+
 
 ----
 ## Recommended Learning Path
